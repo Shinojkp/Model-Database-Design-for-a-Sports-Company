@@ -12,6 +12,7 @@ Join us on this journey as we combine the thrill of sports with the excitement o
 
 **Objective:**
 Create a sports betting platform where users can register, place bets on events, view real-time scout data, and analyze betting trends.
+![ERD Sports](https://github.com/user-attachments/assets/b8f0435f-c776-4cec-aa8a-e0bc9614ece1)
 
 **Database Schema:**
 
